@@ -30,7 +30,10 @@ I enjoy designing digital hardware, debugging RTL, and exploring optimization te
 - Designed a signed/unsigned, three-stage pipelined Booth multiplier using Verilog.
 - Used Wallace-tree reduction and verified RTL functionality using ModelSim/QuestaSim.
 - Performed synthesis and physical implementation using Cadence Genus and Innovus.
-- Research paper accepted at VLSI SATA 2026 and published.
+- Research paper published at VLSI SATA 2026.
+
+📄 **Publication DOI:** [10.1109/VLSISATA69163.2026.11610084](https://doi.org/10.1109/VLSISATA69163.2026.11610084)
+
 
 ### 3. AHB-to-APB Bridge Design
 - Designed an AMBA AHB-to-APB bridge with FSM-based control logic.
